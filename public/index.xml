@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo for the win</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Hugo for the win</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 30 Jan 2025 19:26:45 +1000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo is incredibly quick to set up!</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 30 Jan 2025 19:26:45 +1000</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;I think it only took me 3 minutes to create my very first blog post. I wonder what this theme looks like!!&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t think I have ever created a site in less than 1 hour, so 5 minutes to have a site that looks reasonably good is pretty epic!&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/victorhugo.jpg&#34;&#xA;    alt=&#34;a photograph of Victor Hugo&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;I wonder if Hugo was named after this guy&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Création d&#39;un nouveau thème</title>
+      <link>//localhost:1313/posts/creation-dun-nouveau-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/creation-dun-nouveau-theme/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Ce tutoriel vous montrera comment créer un thème simple pour Hugo. Je suppose que vous êtes familier avec HTML, la ligne de commande bash, et que vous êtes à l&amp;rsquo;aise avec Markdown pour formater le contenu. Je vais expliquer comment Hugo utilise des modèles et comment vous pouvez organiser vos modèles pour créer un thème. Je ne couvrirai pas l&amp;rsquo;utilisation de CSS pour styliser votre thème.&lt;/p&gt;&#xA;&lt;p&gt;Nous allons commencer par créer un nouveau site avec un modèle très basique. Ensuite, nous ajouterons quelques pages et des publications. Avec de petites variations, vous pourrez créer de nombreux types de sites web.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
