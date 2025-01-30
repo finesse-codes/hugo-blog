@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://finesse-codes.github.io"
 title        = "A blog about my special interests"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
